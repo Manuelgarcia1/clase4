@@ -1,0 +1,13 @@
+[
+
+    {
+        "id": "1",
+        "Name": "Pizza especial",
+        "Img": "https://www.mascontainer.com/wp-content/uploads/2020/06/La-pizza-es-un-producto-perecedero-que-hay-que-entregar-muy-r%C3%A1pido.png",
+        "Descrip": "Pizza a la piedra con morron, queso, jamon y aceitunas negras.",
+        "Price": 1000,
+        "Stock": 10
+    }
+    
+    
+]

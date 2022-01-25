@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar/Navbar";
 
-import Text from "./components/ItemListContainer/Text";
+import ItemContainer from "./components/ItemListContainer/ItemContainer";
 
 
 function App(){
@@ -9,8 +9,8 @@ function App(){
         <div className="Nav">
             <Navbar />
         </div>
-        <div className="text-body">
-            <Text />
+        <div>
+          <ItemContainer />
         </div>
       </div>
     );

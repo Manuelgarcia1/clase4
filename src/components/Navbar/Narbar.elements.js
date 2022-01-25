@@ -1,9 +1,11 @@
 import styled from 'styled-components'
 
+
 export const Container = styled.div`
   width: 100%;
   height: 70px;
-  background-color: #23394d; ;
+  background-color: #23394d;
+  margin-bottom: 3px;
 `;
 
 export const Wrapper = styled.div`
@@ -23,7 +25,8 @@ export const LogoContainer = styled.div`
   font-size: 1.2rem;
   font-family: sans-serif;
 
-  p {
+  p {  
+    margin: 0 0 0 0;
     &:nth-child(2) {
       color: #fff;
     }
